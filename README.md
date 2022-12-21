@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Bajpai
-- 👀 I’m interested in Software Development, Scalable Systems Design
+- 👀 I’m interested in developing scalable software systems
 - 🌱 I’m currently working as Software Development Engineer
-- 📫 Reachable @ AnkitBajpaiB070@gmail.com
+- 📫 Reachable @ ankitbajpaib070@gmail.com
 <!---
 AnkitBajpaii/AnkitBajpaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
